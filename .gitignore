@@ -1,6 +1,5 @@
 data/Elexon/B1620*
 config.json
-notebooks/archive
 notebooks/figures
 
 # Byte-compiled / optimized / DLL files
