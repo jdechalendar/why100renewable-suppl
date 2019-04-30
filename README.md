@@ -1,7 +1,7 @@
 # nighttime-suppl
 Supplemental code and data for the paper: Turning the spotlight on California’s (dirty) nighttime emissions, by Jacques A. de Chalendar and Sally M. Benson.
 
-Figures for the paper can be regenerated using the notebooks.
+Figures for the paper can be regenerated using the notebooks. Figure 1 can be regenerated using `noteboks/figure1.ipynb`, and figure 2 can be regenerated using `notebooks/CAISO_efs.ipynb`
 
 ## Data sources
 * Life-cycle analysis estimates for electricity generated from different fuels: Moomaw, W. et al. Annex II: Methodology. IPCC Spec. Rep. Renew. Energy Sources Clim. Chang. Mitig. 16, NP (2014).
