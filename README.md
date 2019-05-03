@@ -1,4 +1,4 @@
-# nighttime-suppl
+# why100renewable-suppl
 Supplemental code and data for the paper: Turning the spotlight on California’s (dirty) nighttime emissions, by Jacques A. de Chalendar and Sally M. Benson.
 
 Figures for the paper can be regenerated using the notebooks. Figure 1 can be regenerated using `noteboks/figure1.ipynb`, and figure 2 can be regenerated using `notebooks/CAISO_efs.ipynb`
